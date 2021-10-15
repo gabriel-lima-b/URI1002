@@ -1,5 +1,5 @@
 # URI1002
-This repository contains my solution to [URI's problem 1022: Area of a Circle](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002).
+This repository contains my solution to [URI's problem 1002: Area of a Circle](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002).
 
 The problem itself is very simple, I should just calculate the area of a circle, but I used it to practice some new ~~to me~~ technologies.
 
